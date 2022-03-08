@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import Card from './Card'; //Card has default export
+import CardList from './CardList';
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';
+import { robos, gatos } from './robos'; // robos can have multiple uses, not default export
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CardList robos={robos} gatos={gatos}/>
   </React.StrictMode>,
   document.getElementById('root')
 );
