@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/osrobos/static/css/main.0529b3c1.css",
-    "main.js": "/osrobos/static/js/main.460cedc5.js",
+    "main.js": "/osrobos/static/js/main.d0d73549.js",
     "static/js/787.9c157dad.chunk.js": "/osrobos/static/js/787.9c157dad.chunk.js",
     "index.html": "/osrobos/index.html",
     "main.0529b3c1.css.map": "/osrobos/static/css/main.0529b3c1.css.map",
-    "main.460cedc5.js.map": "/osrobos/static/js/main.460cedc5.js.map",
+    "main.d0d73549.js.map": "/osrobos/static/js/main.d0d73549.js.map",
     "787.9c157dad.chunk.js.map": "/osrobos/static/js/787.9c157dad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0529b3c1.css",
-    "static/js/main.460cedc5.js"
+    "static/js/main.d0d73549.js"
   ]
 }
